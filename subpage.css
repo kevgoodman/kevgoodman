@@ -40,21 +40,21 @@ body {
   padding: 20px;
   text-align: left;
   overflow: hidden;
-
 }
+
+.container p {
+  font-size: 22px; 
+  float: left;
+  max-width: 50%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  }
 
 .container h2 {
   font-size: 28px;
   clear: both;
 }
 
-.container p {
-  font-size: 22px; 
-  float: left;
-  max-width: 60%;
-  margin: 0 auto;
-  margin-bottom: 10px;
-}
 
 .container img {
   float: right;
